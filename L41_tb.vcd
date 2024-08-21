@@ -1,0 +1,74 @@
+$date
+	Tue Aug 20 16:37:12 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module L41_tb $end
+$var wire 4 ! Y [3:0] $end
+$var reg 2 " A [1:0] $end
+$var reg 1 # EN $end
+$scope module uut $end
+$var wire 2 $ A [1:0] $end
+$var wire 1 # EN $end
+$var reg 4 % Y [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 %
+b0 $
+1#
+b0 "
+b0 !
+$end
+#10
+b1 "
+b1 $
+#20
+b10 "
+b10 $
+#30
+b11 "
+b11 $
+#40
+b1 !
+b1 %
+b0 "
+b0 $
+0#
+#50
+b10 !
+b10 %
+b1 "
+b1 $
+#60
+b100 !
+b100 %
+b10 "
+b10 $
+#70
+b1000 !
+b1000 %
+b11 "
+b11 $
+#80
+b0 !
+b0 %
+b0 "
+b0 $
+1#
+#90
+b1 "
+b1 $
+#100
+b10 "
+b10 $
+#110
+b11 "
+b11 $
+#120
