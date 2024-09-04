@@ -1,0 +1,40 @@
+$date
+	Wed Sep  4 14:52:14 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module q1_tb $end
+$var wire 1 ! Q $end
+$var reg 1 " D $end
+$var reg 1 # Resetn $end
+$var reg 1 $ clock $end
+$scope module f1 $end
+$var wire 1 " D $end
+$var wire 1 # Resetn $end
+$var wire 1 $ clock $end
+$var reg 1 ! Q $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0$
+1#
+0"
+0!
+$end
+#20
+1!
+1"
+0#
+1$
+#40
+0"
+0$
+#60
+1"
+1$
